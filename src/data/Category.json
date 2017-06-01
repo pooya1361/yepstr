@@ -1,0 +1,40 @@
+{
+    "results": [
+      {
+        "nameKey": "homework",
+        "objectId": "5sLoh4oJM2",
+        "order": 2,
+        "icon": "ic-study"
+      },
+      {
+        "nameKey": "painting",
+        "objectId": "82Z6DcnG76",
+        "order": 5,
+        "icon": "ic-paint"
+      },
+      {
+        "nameKey": "babysitting",
+        "objectId": "FFSu7OvzWs",
+        "order": 1,
+        "icon": "ic-kids"
+      },
+      {
+        "nameKey": "misc",
+        "objectId": "alG82lPsqt",
+        "order": 6,
+        "icon": "ic-other"
+      },
+      {
+        "nameKey": "dog-walking",
+        "objectId": "o4CtdB6S3R",
+        "order": 3,
+        "icon": "ic-dog-walking"
+      },
+      {
+        "nameKey": "window-cleaning",
+        "objectId": "zet1Cxd0dT",
+        "order": 4,
+        "icon": "ic-window-cleaning"
+      }
+    ]
+}
